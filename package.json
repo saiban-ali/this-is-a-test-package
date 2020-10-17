@@ -1,0 +1,19 @@
+{
+  "name": "this-is-a-test-package",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node driver.js"
+  },
+  "author": "Saiban Ali",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiban-ali/this-is-a-test-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saiban-ali/this-is-a-test-package/issues"
+  },
+  "homepage": "https://github.com/saiban-ali/this-is-a-test-package#readme"
+}
