@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiban-ali/this-is-a-test-package.git"
+    "url": "git+https://github.com/saiban-ali/this-is-test-package.git"
   },
   "bugs": {
-    "url": "https://github.com/saiban-ali/this-is-a-test-package/issues"
+    "url": "https://github.com/saiban-ali/this-is-test-package/issues"
   },
-  "homepage": "https://github.com/saiban-ali/this-is-a-test-package#readme"
+  "homepage": "https://github.com/saiban-ali/this-is-test-package#readme"
 }
